@@ -1,4 +1,3 @@
-[
 # UPI project
 
 This project is an interactive Power BI dashboard designed to analyze financial transactions and balances for the year 2024. It allows users to explore monthly trends in transaction amounts and remaining balances, with the flexibility to filter data by bank, city, device type, gender, age group, merchant, payment method, purpose, and transaction type.
@@ -36,15 +35,10 @@ By identifying peaks, troughs, and seasonal variations, organizations can optimi
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](Screenshot 2026-03-27 161724.png)
-
-![dashboard_snapo](Screenshot 2026-03-27 161735.png)
-
-![dashboard_snapo](Screenshot 2026-03-27 161747.png)
-
-![dashboard_snapo](Screenshot 2026-03-27 161755.png)
-
-![dashboard_snapo](Screenshot 2026-03-27 161835.png)
+![dashboard_snapo](https://github.com/prajyotchougale3-pv/UPI/blob/main/Screenshot%202026-03-27%20161724%20-%20Copy.png)
+![dashboard_snapo](https://github.com/prajyotchougale3-pv/UPI/blob/main/Screenshot%202026-03-27%20161735.png)
+![dashboard_snapo](https://github.com/prajyotchougale3-pv/UPI/blob/main/Screenshot%202026-03-27%20161747.png)
+![dashboard_snapo](https://github.com/prajyotchougale3-pv/UPI/blob/main/Screenshot%202026-03-27%20161755.png)
 
 # Insights
 
@@ -71,5 +65,3 @@ This dashboard provides a comprehensive view of financial transactions and balan
 - Compare city/currency performance.
 - Monitor customer behavior by demographics.
 - Make data-driven decisions for operational efficiency
-
-](https://github.com/prajyotchougale3-pv/UPI/blob/main/Screenshot%202026-03-27%20161755.png)
