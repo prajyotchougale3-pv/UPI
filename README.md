@@ -37,9 +37,13 @@ By identifying peaks, troughs, and seasonal variations, organizations can optimi
 # Snapshot of Dashboard (Power BI Service)
 
 ![dashboard_snapo](Screenshot 2026-03-27 161724.png)
+
 ![dashboard_snapo](Screenshot 2026-03-27 161735.png)
+
 ![dashboard_snapo](Screenshot 2026-03-27 161747.png)
+
 ![dashboard_snapo](Screenshot 2026-03-27 161755.png)
+
 ![dashboard_snapo](Screenshot 2026-03-27 161835.png)
 
 # Insights
